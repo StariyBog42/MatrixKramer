@@ -1,4 +1,5 @@
-﻿using System;
+//сделано на C#
+using System;
 
 class Program
 {
